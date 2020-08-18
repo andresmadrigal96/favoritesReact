@@ -1,0 +1,37 @@
+.card {
+    border: none;
+    border-radius: 8px;
+    
+}
+.PokeMount-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.PokeMount-Card {
+    max-height: 140px;
+    max-width: 520px;
+}
+.PokeMount-Card-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.PokeMount-Card-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.PokeMount-Card-Info p{
+    font-size: 11px;
+    color: white;
+}
+.PokeMount-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
+.tam{
+    font-size: 12px;
+}
